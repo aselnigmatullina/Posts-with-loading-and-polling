@@ -1,4 +1,4 @@
-const baseUrl    = 'https://asel-express-polling.herokuapp.com/';
+const baseUrl    = 'https://asel-express-polling.herokuapp.com';
 
 let newPostId    = 0;
 let latePostId   = 0;
