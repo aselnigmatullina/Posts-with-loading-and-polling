@@ -1,0 +1,26 @@
+.mx-auto{
+    margin: 0 auto;
+}
+
+
+
+ .btn-photo{
+    /* background: url('icons/camera_image_picture_twitter_icon_127123.png') no-repeat center; */
+    padding: 0px 0px;
+    border-radius: 50%;
+    background: #fff;
+    margin-left:  100px;
+    border: 1px solid #fff;
+
+
+}  
+
+.btn-video{
+    /* background: url('icons/camera_image_picture_twitter_icon_127123.png') no-repeat center; */
+    padding: 0px 0px;
+    border-radius: 50%;
+    background: #fff;
+    margin-left:  0px;
+    border: 1px solid #fff;
+
+}  
